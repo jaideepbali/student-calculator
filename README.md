@@ -14,7 +14,9 @@ This project now includes a desktop application version built with **Tkinter**.
 
 🛠️ 
 **Technical Workflow**
-The application follows a structured data flow to ensure accuracy and reliability:Input: User enters student name and marks for 5 core subjects.Validation: The system checks if scores are between $0$ and $100$.Processing: Python logic calculates the sum and mean of the scores.Storage: Results are appended to a local text file with a unique timestamp.Retrieval: The program reads the .txt file to display historical data to the user.
+The application follows a structured data flow to ensure accuracy and reliability:Input: User enters student name and marks for 5 core subjects.Validation: The system checks if scores are between 0 and 100.
+Processing: Python logic calculates the sum and mean of the scores.Storage: Results are appended to a local text file with a unique timestamp.
+Retrieval: The program reads the .txt file to display historical data to the user.
 
 📂 
 **Installation & Usage.**
@@ -34,6 +36,7 @@ python calculator.py
 ## LicenseDistributed under the MIT License. See LICENSE for more information.
 
 🤝 
-## ContactYour Name -
+## Contact- Jaideep Singh Bali
+
 
 ## Project Link: https://github.com/jaideepbali/student-calculator
